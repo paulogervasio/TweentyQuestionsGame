@@ -3,7 +3,7 @@
 ### Twenty Questions game
 
 - [ ] Change tweenty to twenty (typo)
-- [ ] Persist answers in a DB
+- [ ] Persist answers in a Database
 - [ ] Perform Tests
 
 
