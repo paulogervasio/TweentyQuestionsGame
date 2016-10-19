@@ -11,8 +11,10 @@ If it fails to guess even with 25 (or 30) questions, the player is declared the 
 Sometimes the first guess of the object can be asked at question 14.
 ```
 
-Initially the game has no database data.
-So the more you play and enter correct answers, will be more assertive play. The system will learn with the data input.
+Initially, the game has no database data. 
+So the more you play and inserts correct answers the new answers will be more assertive.
+The system will learn from the moves data entry, whether correct or not.
+
 
 
 
